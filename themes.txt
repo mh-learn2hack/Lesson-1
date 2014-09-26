@@ -1,0 +1,22 @@
+tutorials
+------------------------------
+basic html tutorial - http://www.w3schools.com/html/
+bootstrap quickstart guide - http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-get-started.php
+
+Bunch of free themes - http://startbootstrap.com/
+
+github user page - http://jmcglone.com/guides/github-pages/
+
+links to basic themes
+-------------------------------
+bare template - http://startbootstrap.com/template-overviews/bare/
+bare + narbar - http://startbootstrap.com/template-overviews/logo-nav/
+
+
+links to blog themes
+--------------------------------
+http://startbootstrap.com/template-overviews/blog-home/
+http://startbootstrap.com/template-overviews/blog-post/
+
+
+
