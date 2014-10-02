@@ -1,0 +1,23 @@
+Lesson 1 - Basic HTML overview
+
+Topics to cover
+
+1. Introduction to HTML
+2. Hello World example
+	a. <html>, <head>, <title>, <body>
+	b. <p>, <br>
+	c. <h1>
+	d. Formatting tags
+3. Attributes and links
+	a. <a href="http://www.google.com">Google</a>
+	b. Images (folder/url)
+	c. Bookmark anchor
+4. Style
+	a. Inline styles
+	b. Internal style sheet
+	c. External style sheet  <link href="css/bootstrap.min.css" rel="stylesheet">
+	d. <span>
+5. Lists
+	a. <ul>, <li>
+6. <div>
+
