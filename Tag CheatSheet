@@ -1,0 +1,29 @@
+LearnToHack static HTML and CSS cheatsheet
+============================================
+
+--------------
+The HTML
+--------------
+<html></html> - Begins/ends the html code
+<head></head> - Begins/ends the head aka "The stuff that effects the text."
+<body></body> - Begins/ends the body aka "The text"
+<title></title> - The title of the document (goes inside the head tag)
+<h1><h2><h3> - Headers (The bigger the number, the smaller the text)
+<p> - Paragraph tag
+<br> - line break (aka returns to a new line)
+<img src="ImageNameGoesHere.jpg"> - Image tag
+<a href="www.websiteDomainGoesHere.com"> - Link tag
+<div id="nameGoesHere" - div tag (aka organization tag)
+
+--------------
+The CSS
+--------------
+background-color: black; - Sets the background color to black
+color: white; - sets the text color to white
+text-align: center; - aligns the text to center
+padding: 5px; - puts 5 pixles of space inbetween this div tag and any other 				div tag
+line-height: 30px; - sets the height of the space inbetween lines of text 						vertically
+height: 300px; - sets the height of the div element to 300px
+width: 100px; - sets the width of the div element to 100px
+float: left; - moves the div element over to the leftmost side of the screen
+clear: both; - no text allowed on either side of the div tags above it
